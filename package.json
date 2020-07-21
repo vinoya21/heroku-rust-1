@@ -19,7 +19,7 @@
     "mysql": "^2.18.1"
   },
   "devDependencies": {
-    "codecov": "^3.6.5",
+    "codecov": "^3.7.1",
     "jest": "^25.1.0"
   },
   "jest": {
